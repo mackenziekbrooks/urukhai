@@ -12,7 +12,7 @@ title: IIIF demo
         id: "openseadragon1",
       minZoomImageRatio: 1,
       prefixUrl: "/assets/js/openseadragon/images/",
-      tileSources: "http://iiif.wlu.edu/iipsrv?IIIF=huon/converted/b065v.tif/info.json",
+      tileSources: "http://iiif.wlu.edu/iipsrv?IIIF=huon/converted/b065v.tif/info.json"
  
     });
 
