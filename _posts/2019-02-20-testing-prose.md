@@ -1,6 +1,6 @@
 ---
-published: false
+published: true
 ---
 ## Heading 2
 
-Here is a new blog post! 
+Here is a new blog post!
